@@ -25,7 +25,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://github.com/agcontr1/20-React-Portfolio",
+    "deploy": "gh-pages -d build -r https://github.com/agcontr1/Portfolio-20",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
